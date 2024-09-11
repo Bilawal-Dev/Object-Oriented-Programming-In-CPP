@@ -6,18 +6,16 @@ This repository represents a significant milestone in my software engineering jo
 
 ## Description 📜
 
-This repository contains the C++ code I wrote during my second semester, focusing on Object-Oriented Programming. It includes various programs and exercises that demonstrate my understanding and application of OOP principles.
+This repository contains the C++ code I wrote for my OOP Lab tasks during my second semester. It includes various programs and exercises that demonstrate my understanding and application of OOP principles.
 
 ## Importance of OOP & Its Advantages 🌟
 
-Object-Oriented Programming is a core paradigm in software engineering with several key advantages:
-
-- **Encapsulation:** Bundles data and methods into a class, promoting modularity and data protection.
-- **Inheritance:** Enables code reuse and hierarchical relationships, reducing redundancy and improving maintainability.
-- **Polymorphism:** Provides flexibility by allowing one interface to serve multiple actions, making systems more adaptable.
-- **Abstraction:** Hides complex implementation details, simplifying interactions with complex systems.
-- **Reusability:** Facilitates creation of reusable code components, easing system development and maintenance.
-- **Maintainability:** Modular structure supports easier debugging and updates, with minimal changes required for system modifications.
+- **Encapsulation**
+- **Inheritance**
+- **Polymorphism**
+- **Abstraction**
+- **Reusability**
+- **Maintainability**
 
 ## Contents 📂
 
